@@ -12,7 +12,7 @@
 - Email: petro.lozynskyi.dev@gmail.com
 - Telegram: @petrolozynskyi
 - LinkedIn: Petro Lozynskyi
-⚡ Fun fact: JavaScript is like a Swiss Army knife for web development – it can do almost anything, but sometimes you end up accidentally cutting yourself. 😄
+- ⚡ Fun fact: JavaScript is like a Swiss Army knife for web development – it can do almost anything, but sometimes you end up accidentally cutting yourself. 😄
 Feel free to reach out if you have any questions or just want to connect!
 
 <h3 align="left">Languages and Tools:</h3>
